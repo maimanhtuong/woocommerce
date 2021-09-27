@@ -10,7 +10,7 @@
 <channel>
 	<title>Con người &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/con-nguoi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Wed, 25 Aug 2021 12:44:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Tách biệt xã hội (Social Isolation), Sự cô độc (Loneliness) và ảnh hưởng của nó.</title>
-		<link>https://maimanhtuong.github.io/mywordpress/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 12:32:55 +0000</pubDate>
 				<category><![CDATA[Tâm lí học]]></category>
 		<category><![CDATA[Con người]]></category>
 		<category><![CDATA[Xã hội]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=13</guid>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=13</guid>
 
 					<description><![CDATA[  Buồn, lạc lõng, trầm cảm, cô độc, tách biệt xã hội. Tất cả những khái niệm này thường được nhắc đến nhưng cũng thường bị&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -10,7 +10,7 @@
 <channel>
 	<title>Thiền &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/thien/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Thu, 16 Sep 2021 03:21:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Thiền: Phương pháp chữa lành cảm xúc</title>
-		<link>https://maimanhtuong.github.io/mywordpress/thien-phuong-phap-chua-lanh-cam-xuc/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/thien-phuong-phap-chua-lanh-cam-xuc/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/thien-phuong-phap-chua-lanh-cam-xuc/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/thien-phuong-phap-chua-lanh-cam-xuc/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Wed, 15 Sep 2021 12:20:07 +0000</pubDate>
 				<category><![CDATA[Cảm xúc]]></category>
 		<category><![CDATA[Chữa lành]]></category>
 		<category><![CDATA[Thiền]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=105</guid>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=105</guid>
 
 					<description><![CDATA[Mystic Cat Lady14 tháng 6 2020 Liệu bạn có những nỗi sợ bên trong mà bạn không biết bắt nguồn từ đâu không? Ví dụ như&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/thien-phuong-phap-chua-lanh-cam-xuc/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/thien-phuong-phap-chua-lanh-cam-xuc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

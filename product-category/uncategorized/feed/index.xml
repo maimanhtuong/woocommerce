@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorized &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Sun, 26 Sep 2021 03:58:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Chuột Fuhlen F200</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/chuot-fuhlen-f200/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/chuot-fuhlen-f200/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/chuot-fuhlen-f200/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/chuot-fuhlen-f200/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 01:53:15 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3885</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3885</guid>
 
 					<description><![CDATA[<p style="font-weight: 400;"><b><strong>Thông tin chung :</strong></b></p>
 
@@ -36,7 +36,7 @@
  	<li><b><strong>Bảo Hành</strong></b> : 24 tháng</li>
 </ul>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/chuot-fuhlen-f200/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/chuot-fuhlen-f200/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

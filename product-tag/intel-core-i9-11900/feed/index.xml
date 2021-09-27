@@ -10,7 +10,7 @@
 <channel>
 	<title>Intel Core i9 11900 &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/intel-core-i9-11900/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Sun, 26 Sep 2021 04:00:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>AORUS X</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/aorus-x/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/aorus-x/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/aorus-x/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/aorus-x/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 06:20:05 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3964</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3964</guid>
 
 					<description><![CDATA[<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Khuyến mãi:</span></span></strong>
 
@@ -46,7 +46,7 @@
 
 <strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Hỗ trợ trả góp MPOS (Tín dụng thẻ), HDSAISON.</span></span></strong>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/aorus-x/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/aorus-x/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

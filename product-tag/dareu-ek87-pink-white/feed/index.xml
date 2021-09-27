@@ -10,7 +10,7 @@
 <channel>
 	<title>DareU EK87 Pink White &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/dareu-ek87-pink-white/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Sun, 26 Sep 2021 11:26:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Bàn phím DareU EK87 Pink White</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/ban-phim-dareu-ek87-pink-white/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/ban-phim-dareu-ek87-pink-white/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/ban-phim-dareu-ek87-pink-white/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/ban-phim-dareu-ek87-pink-white/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 03:02:30 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3910</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3910</guid>
 
 					<description><![CDATA[<strong>Thông tin chung:</strong>
 <ul>
@@ -36,7 +36,7 @@
  	<li><strong>Switch:</strong> Blue/Red/Brown</li>
 </ul>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/ban-phim-dareu-ek87-pink-white/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/ban-phim-dareu-ek87-pink-white/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

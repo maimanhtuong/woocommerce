@@ -10,7 +10,7 @@
 <channel>
 	<title>Cooler Master &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/cooler-master/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Sun, 26 Sep 2021 01:22:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Chuột CoolerMaster MM711 Retro</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/chuot-coolermaster-mm711-retro/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/chuot-coolermaster-mm711-retro/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/chuot-coolermaster-mm711-retro/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/chuot-coolermaster-mm711-retro/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 01:22:46 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=4006</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=4006</guid>
 
 					<description><![CDATA[<strong>Nhà sản xuất</strong> : COOLER MASTER
 
@@ -36,19 +36,19 @@
 
 <strong>Led</strong> : RGB]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/chuot-coolermaster-mm711-retro/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/chuot-coolermaster-mm711-retro/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Màn hình cong Cooler Master GM34-CW 34&#8243; 2K 144Hz Gsync compatible</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/man-hinh-cong-cooler-master-gm34-cw-34-2k-144hz-gsync-compatible/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/man-hinh-cong-cooler-master-gm34-cw-34-2k-144hz-gsync-compatible/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/man-hinh-cong-cooler-master-gm34-cw-34-2k-144hz-gsync-compatible/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/man-hinh-cong-cooler-master-gm34-cw-34-2k-144hz-gsync-compatible/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 04:12:51 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3931</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3931</guid>
 
 					<description><![CDATA[<strong>Thông tin chung:</strong>
 
@@ -58,7 +58,7 @@
 
 <strong>-Bảo hành :</strong> 24 tháng]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/man-hinh-cong-cooler-master-gm34-cw-34-2k-144hz-gsync-compatible/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/man-hinh-cong-cooler-master-gm34-cw-34-2k-144hz-gsync-compatible/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

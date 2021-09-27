@@ -10,7 +10,7 @@
 <channel>
 	<title>PC Văn phòng,học tập &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/pc/pc-van-phonghoc-tap/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Fri, 24 Sep 2021 04:05:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Homework I3</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/homework-i3/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/homework-i3/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/homework-i3/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/homework-i3/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 03:57:19 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3928</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3928</guid>
 
 					<description><![CDATA[<strong>Khuyến mãi: (chọn một trong các gói sau)</strong>
 
@@ -52,7 +52,7 @@
 
 <strong>Hỗ trợ trả góp MPOS (Thẻ tín dụng), HDSAISON.</strong>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/homework-i3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/homework-i3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

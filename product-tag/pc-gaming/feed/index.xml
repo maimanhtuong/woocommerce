@@ -10,7 +10,7 @@
 <channel>
 	<title>PC Gaming &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/pc-gaming/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Sun, 26 Sep 2021 14:14:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Avengers Z</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/avengers-z/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/avengers-z/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/avengers-z/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/avengers-z/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 03:27:06 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3920</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3920</guid>
 
 					<description><![CDATA[<strong>Khuyến mãi: (chọn một trong các gói sau)</strong>
 
@@ -58,19 +58,19 @@
 
 <em>(Hình ảnh PC chỉ mang tính chất minh họa).</em>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/avengers-z/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/avengers-z/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>PC Gaming Predator Z</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/predator-z/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/predator-z/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/predator-z/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/predator-z/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 08:52:35 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=243</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=243</guid>
 
 					<description><![CDATA[<strong>Ưu đãi đặc biệt khi mua kèm PC:</strong>
 
@@ -80,7 +80,7 @@
 
 • Mua kèm các sản phẩm khác giảm giá lên đến ... ( <a href="https://gearvn.com/pages/chuong-trinh-mua-kem-pc-gearvn">xem chi tiết</a> ).]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/predator-z/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/predator-z/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

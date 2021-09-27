@@ -10,7 +10,7 @@
 <channel>
 	<title>Chủ đề &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/chu-de/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Wed, 25 Aug 2021 12:54:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Thiết kế lấy người chơi làm trung tâm</title>
-		<link>https://maimanhtuong.github.io/mywordpress/thiet-ke-lay-nguoi-choi-lam-trung-tam/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/thiet-ke-lay-nguoi-choi-lam-trung-tam/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/thiet-ke-lay-nguoi-choi-lam-trung-tam/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/thiet-ke-lay-nguoi-choi-lam-trung-tam/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Wed, 25 Aug 2021 12:52:40 +0000</pubDate>
@@ -30,11 +30,11 @@
 		<category><![CDATA[game]]></category>
 		<category><![CDATA[Bàn luận]]></category>
 		<category><![CDATA[Tham khảo]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=47</guid>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=47</guid>
 
 					<description><![CDATA[Từ thiết kế lấy người dùng làm trung tâm đến một tầm cao mới trong Game hóa. Blog Game hoá12 giờ trước Trong suốt những năm&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/thiet-ke-lay-nguoi-choi-lam-trung-tam/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/thiet-ke-lay-nguoi-choi-lam-trung-tam/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

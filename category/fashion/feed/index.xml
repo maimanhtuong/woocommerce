@@ -10,7 +10,7 @@
 <channel>
 	<title>Fashion &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/fashion/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Mon, 30 Apr 2018 19:47:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Latest sleeveless tops with buttons</title>
-		<link>https://maimanhtuong.github.io/mywordpress/a-beautiful-place-for-a-relaxing-holiday/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/a-beautiful-place-for-a-relaxing-holiday/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/a-beautiful-place-for-a-relaxing-holiday/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/a-beautiful-place-for-a-relaxing-holiday/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 30 Apr 2018 19:47:06 +0000</pubDate>
@@ -36,15 +36,15 @@
 
 					<description><![CDATA[I have traced the Rebel spies to her. Now she is my only link to finding their secret base. Hey, Luke! May the Force be with&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/a-beautiful-place-for-a-relaxing-holiday/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/a-beautiful-place-for-a-relaxing-holiday/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WordPress Post Formats Video ( Hosted Video )</title>
-		<link>https://maimanhtuong.github.io/mywordpress/wordpress-post-formats-video-hosted-video/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/wordpress-post-formats-video-hosted-video/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/wordpress-post-formats-video-hosted-video/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/wordpress-post-formats-video-hosted-video/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2018 20:55:46 +0000</pubDate>
@@ -57,7 +57,7 @@
 
 					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/wordpress-post-formats-video-hosted-video/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/wordpress-post-formats-video-hosted-video/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="http://techslides.com/demos/sample-videos/small.webm" length="229455" type="video/webm" />
@@ -65,8 +65,8 @@
 			</item>
 		<item>
 		<title>WordPress Post Formats Audio ( Hosted MP3 )</title>
-		<link>https://maimanhtuong.github.io/mywordpress/wordpress-post-formats-audio-hosted-mp3/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/wordpress-post-formats-audio-hosted-mp3/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/wordpress-post-formats-audio-hosted-mp3/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/wordpress-post-formats-audio-hosted-mp3/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2018 20:53:46 +0000</pubDate>
@@ -80,7 +80,7 @@
 
 					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/wordpress-post-formats-audio-hosted-mp3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/wordpress-post-formats-audio-hosted-mp3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://eds.edatastyle.com/bc/wp-content/uploads/2017/11/audio.mp3" length="638540" type="audio/mpeg" />
@@ -88,8 +88,8 @@
 			</item>
 		<item>
 		<title>I’m Soundcloud, Video Post Formats</title>
-		<link>https://maimanhtuong.github.io/mywordpress/im-soundcloud-video-post-formats/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/im-soundcloud-video-post-formats/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/im-soundcloud-video-post-formats/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/im-soundcloud-video-post-formats/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2018 20:45:45 +0000</pubDate>
@@ -103,15 +103,15 @@
 
 					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/im-soundcloud-video-post-formats/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/im-soundcloud-video-post-formats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>I&#8217;m Vimeo, Video Post Formats</title>
-		<link>https://maimanhtuong.github.io/mywordpress/im-vimeo-video-post-formats/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/im-vimeo-video-post-formats/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/im-vimeo-video-post-formats/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/im-vimeo-video-post-formats/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2018 20:43:09 +0000</pubDate>
@@ -125,15 +125,15 @@
 
 					<description><![CDATA[I have traced the Rebel spies to her. Now she is my only link to finding their secret base. Hey, Luke! May the Force be with&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/im-vimeo-video-post-formats/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/im-vimeo-video-post-formats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>I&#8217;m Youtube , Video Post Formats</title>
-		<link>https://maimanhtuong.github.io/mywordpress/im-youtube-video-post-formats/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/im-youtube-video-post-formats/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/im-youtube-video-post-formats/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/im-youtube-video-post-formats/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 07 Jan 2018 20:34:12 +0000</pubDate>
@@ -145,15 +145,15 @@
 
 					<description><![CDATA[I have traced the Rebel spies to her. Now she is my only link to finding their secret base. Hey, Luke! May the Force be with&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/im-youtube-video-post-formats/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/im-youtube-video-post-formats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem Ipsum is therefore always free</title>
-		<link>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-therefore-always-free/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-therefore-always-free/#comments</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/lorem-ipsum-is-therefore-always-free/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/lorem-ipsum-is-therefore-always-free/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Aug 2017 06:25:13 +0000</pubDate>
@@ -167,15 +167,15 @@
 
 					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-therefore-always-free/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/lorem-ipsum-is-therefore-always-free/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>It uses a dictionary of over 200 Latin words</title>
-		<link>https://maimanhtuong.github.io/mywordpress/it-uses-a-dictionary-of-over-200-latin-words/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/it-uses-a-dictionary-of-over-200-latin-words/#comments</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/it-uses-a-dictionary-of-over-200-latin-words/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/it-uses-a-dictionary-of-over-200-latin-words/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Aug 2017 06:23:06 +0000</pubDate>
@@ -190,15 +190,15 @@
 
 					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/it-uses-a-dictionary-of-over-200-latin-words/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/it-uses-a-dictionary-of-over-200-latin-words/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem Ipsum is simply dummy text</title>
-		<link>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-simply-dummy-text/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-simply-dummy-text/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/lorem-ipsum-is-simply-dummy-text/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/lorem-ipsum-is-simply-dummy-text/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Aug 2017 06:21:21 +0000</pubDate>
@@ -213,7 +213,7 @@
 
 					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-simply-dummy-text/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/lorem-ipsum-is-simply-dummy-text/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

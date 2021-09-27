@@ -10,7 +10,7 @@
 <channel>
 	<title>Thảo luận &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/thao-luan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Thu, 16 Sep 2021 03:23:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Tarot – Những lá bài huyền bí</title>
-		<link>https://maimanhtuong.github.io/mywordpress/tarot-nhung-la-bai-huyen-bi/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/tarot-nhung-la-bai-huyen-bi/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/tarot-nhung-la-bai-huyen-bi/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/tarot-nhung-la-bai-huyen-bi/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Wed, 25 Aug 2021 13:18:03 +0000</pubDate>
 				<category><![CDATA[Tâm linh]]></category>
 		<category><![CDATA[Bài tarot]]></category>
 		<category><![CDATA[Thảo luận]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=55</guid>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=55</guid>
 
 					<description><![CDATA[&#160; &#160; Mấy hôm nay tự dưng thấy có nhiều bạn hỏi về Tarot thực sự là gì. Tuy mới chỉ tìm hiểu về Tarot trong&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/tarot-nhung-la-bai-huyen-bi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/tarot-nhung-la-bai-huyen-bi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

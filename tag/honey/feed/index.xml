@@ -10,7 +10,7 @@
 <channel>
 	<title>honey &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/honey/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Thu, 10 Sep 2020 10:00:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Breakfast including coffee and honey</title>
-		<link>https://maimanhtuong.github.io/mywordpress/breakfast-including-coffee-and-honey/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/breakfast-including-coffee-and-honey/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/breakfast-including-coffee-and-honey/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/breakfast-including-coffee-and-honey/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 10 Sep 2020 10:00:50 +0000</pubDate>
@@ -35,7 +35,7 @@
 
 					<description><![CDATA[I have traced the Rebel spies to her. Now she is my only link to finding their secret base. Hey, Luke! May the Force be with&#46;&#46;&#46;]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/breakfast-including-coffee-and-honey/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/breakfast-including-coffee-and-honey/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

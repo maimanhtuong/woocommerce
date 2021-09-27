@@ -10,7 +10,7 @@
 <channel>
 	<title>Chuột văn phòng &#8211; ZOE Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/chuot-van-phong/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
 	<lastBuildDate>Sun, 26 Sep 2021 01:39:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Chuột CoolerMaster MM711 Retro</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/chuot-coolermaster-mm711-retro/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/chuot-coolermaster-mm711-retro/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/chuot-coolermaster-mm711-retro/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/chuot-coolermaster-mm711-retro/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 01:22:46 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=4006</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=4006</guid>
 
 					<description><![CDATA[<strong>Nhà sản xuất</strong> : COOLER MASTER
 
@@ -36,19 +36,19 @@
 
 <strong>Led</strong> : RGB]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/chuot-coolermaster-mm711-retro/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/chuot-coolermaster-mm711-retro/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chuột Logitech MX Anywhere 3</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/chuot-logitech-mx-anywhere-3/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/chuot-logitech-mx-anywhere-3/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/chuot-logitech-mx-anywhere-3/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/chuot-logitech-mx-anywhere-3/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 01:09:06 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3867</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3867</guid>
 
 					<description><![CDATA[<strong>Thông tin chung:</strong>
 <ul>
@@ -58,19 +58,19 @@
  	<li><strong>Màu: </strong>Rose</li>
 </ul>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/chuot-logitech-mx-anywhere-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/chuot-logitech-mx-anywhere-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chuột Logitech B100</title>
-		<link>https://maimanhtuong.github.io/mywordpress/product/chuot-logitech-b100/</link>
-					<comments>https://maimanhtuong.github.io/mywordpress/product/chuot-logitech-b100/#respond</comments>
+		<link>https://maimanhtuong.github.io/woocommerce/product/chuot-logitech-b100/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/product/chuot-logitech-b100/#respond</comments>
 		
 		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 00:51:39 +0000</pubDate>
-				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3858</guid>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?post_type=product&#038;p=3858</guid>
 
 					<description><![CDATA[<div class="product-summary-item-title">Thông số sản phẩm</div>
 <ul id="js-tskt-item" class="product-summary-item-ul d-flex flex-wrap mb-0">
@@ -83,7 +83,7 @@
  	<li>Sử dụng switch Omron cho độ bền cao hơn</li>
 </ul>]]></description>
 		
-					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/chuot-logitech-b100/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/product/chuot-logitech-b100/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
