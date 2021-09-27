@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bakery &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/bakery/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Thu, 10 Sep 2020 12:31:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Cheesy rice and broccoli casserole</title>
+		<link>https://maimanhtuong.github.io/mywordpress/cheesy-rice-and-broccoli-casserole-2/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/cheesy-rice-and-broccoli-casserole-2/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2020 12:31:17 +0000</pubDate>
+				<category><![CDATA[Bakery]]></category>
+		<category><![CDATA[SeaFood]]></category>
+		<category><![CDATA[Vegetables]]></category>
+		<category><![CDATA[bread]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[food]]></category>
+		<guid isPermaLink="false">https://athemeart.com/demo/grocery-store/demo-1/?p=110</guid>
+
+					<description><![CDATA[I have traced the Rebel spies to her. Now she is my only link to finding their secret base. Hey, Luke! May the Force be with&#46;&#46;&#46;]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/cheesy-rice-and-broccoli-casserole-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

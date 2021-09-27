@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lót bàn phím &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/lot-ban-phim/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Sun, 26 Sep 2021 09:27:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>COMBO bàn phím và lót chuột LOGITECH KDA</title>
+		<link>https://maimanhtuong.github.io/mywordpress/product/combo-ban-phim-va-lot-chuot-logitech-kda/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/product/combo-ban-phim-va-lot-chuot-logitech-kda/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 09:11:54 +0000</pubDate>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=4022</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/combo-ban-phim-va-lot-chuot-logitech-kda/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lót chuột Logitech G840 KDA XL</title>
+		<link>https://maimanhtuong.github.io/mywordpress/product/combo-chuot-ban-phim-logitech/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/product/combo-chuot-ban-phim-logitech/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 08:51:03 +0000</pubDate>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=4021</guid>
+
+					<description><![CDATA[<strong>Thông tin chung:</strong>
+<ul>
+ 	<li><strong>Hãng sản xuất: </strong>Logitech</li>
+ 	<li><strong>Tình trạng: </strong>Mới</li>
+ 	<li><strong>Kích thước: </strong>900x400x3mm</li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/combo-chuot-ban-phim-logitech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

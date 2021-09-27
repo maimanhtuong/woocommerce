@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>game &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/game/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Wed, 15 Sep 2021 15:32:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Thiết kế lấy người chơi làm trung tâm</title>
+		<link>https://maimanhtuong.github.io/mywordpress/thiet-ke-lay-nguoi-choi-lam-trung-tam/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/thiet-ke-lay-nguoi-choi-lam-trung-tam/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 12:52:40 +0000</pubDate>
+				<category><![CDATA[Chủ đề]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[Bàn luận]]></category>
+		<category><![CDATA[Tham khảo]]></category>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=47</guid>
+
+					<description><![CDATA[Từ thiết kế lấy người dùng làm trung tâm đến một tầm cao mới trong Game hóa. Blog Game hoá12 giờ trước Trong suốt những năm&#46;&#46;&#46;]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/thiet-ke-lay-nguoi-choi-lam-trung-tam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bạn biết gì về Play-by-Post Roleplaying?</title>
+		<link>https://maimanhtuong.github.io/mywordpress/abc/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/abc/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 01:22:17 +0000</pubDate>
+				<category><![CDATA[game]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=5</guid>
+
+					<description><![CDATA[Dungeons &#38; Dragons Hãy hình dung cuộc đời của rất nhiều người khi series truyền hình nổi tiếng Game of Thrones (GoT) kết thúc sau&#8230;Dẫn Truyện&#46;&#46;&#46;]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/abc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Night Stalker &#8211; chuyển mình và trở thành top pick của Meta mới</title>
+		<link>https://maimanhtuong.github.io/mywordpress/hello-world/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:06:54 +0000</pubDate>
+				<category><![CDATA[game]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[<!-- wp:paragraph -->
+<p>Rất hiếm khi chúng ta được thấy một hero được buff mà không rework, remake hay thêm gậy xanh hoặc thêm skill gì mới. Night Stalker là một ví dụ điển hình của điều đó và 7.06 chính là một trong những thời điểm các gosu 3k phải hét lên với Icefrog rằng :"Anh hút cái gì mà thơm thế?"Bản patch mới này cho Night Stalker khả năng bay trong 2s xuyên lục địa và Flying Vision khi sử dụng "Hunter in the Night" vào ban đêm. Bên cạnh đó, với sự thay đổi của Attribute trong thời gian gần đây dành cho các Strenght Hero và xu hướng đổ dồn combat vào đầu game, tập trung vào early đến mid, chúng ta có thể thấy rõ tiềm năng của Batman trong meta mới.Tất cả những thay đổi đó đều rất rất nhỏ nhưng thực sự đã đem lại hiệu ứng bươm bướm rất lớn khi thực tế đã chứng minh rằng Night Stalker là một trong những hero bị động vào nhiều nhất trong mọi game ở Epicenter vừa qua. Được ban pick nhiều thứ 5, 58.3% winrate và mỗi khi được cho vào trận là đều đem lại những thay đổi đáng kinh ngạc trong trận địa.&#160;</p>
+<!-- /wp:paragraph -->]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

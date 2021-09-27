@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Homework &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/homework/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Fri, 24 Sep 2021 04:05:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Homework I3</title>
+		<link>https://maimanhtuong.github.io/mywordpress/product/homework-i3/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/product/homework-i3/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 03:57:19 +0000</pubDate>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3928</guid>
+
+					<description><![CDATA[<strong>Khuyến mãi: (chọn một trong các gói sau)</strong>
+
+<strong>  + Gói 1: </strong>Nhận ngay bộ quà lên đến<strong> 260,000 </strong><em>( Áp dụng khi mua với giá</em><em> </em><strong><em>8,590,000 </em></strong><em>).</em>
+
+<strong>     🎁 </strong><a href="https://gearvn.com/products/bo-ban-phim-va-chuot-ajazz-x1080">Bộ bàn phím và chuột AJAZZ X1080</a> trị giá<strong> 260.000.</strong>
+
+<strong>  + Gói 2:</strong><strong> </strong>Giảm ngay <strong>200,000</strong> chỉ còn <strong>8,390,000</strong>.
+
+<hr />
+
+<strong>Ưu đãi đặc biệt khi mua kèm PC:</strong>
+
+⭐ Mua thêm 1 thanh RAM 8GB cùng loại chỉ với <strong>990,000 </strong>(<a href="https://gearvn.com/pages/chuong-trinh-nang-cap-them-ram-8gb-chi-voi-990-000-vnd">xem chi tiết</a>).
+
+⭐ Mua kèm màn hình giảm sốc lên đên 49% (<a href="https://gearvn.com/pages/uu-dai-man-hinh-kem-pc-laptop">xem chi tiết</a>).
+
+• Mua <strong><a href="https://gearvn.com/search?type=product&#38;q=filter=((title%3Aproduct%20adjacent%20Webcam%20Rapoo))">Webcam Rapoo</a></strong> làm việc tại nhà - Giảm ngay <strong>100,000</strong>.
+
+• Mua kèm các sản phẩm khác giảm giá hấp dẫn (<a href="https://gearvn.com/pages/chuong-trinh-mua-kem-pc-gearvn">xem chi tiết</a>).
+
+<hr />
+
+<strong>Hỗ trợ trả góp MPOS (Thẻ tín dụng), HDSAISON.</strong>]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/homework-i3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

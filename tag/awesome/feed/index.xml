@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>awesome &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/awesome/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Tue, 29 Aug 2017 06:23:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>It uses a dictionary of over 200 Latin words</title>
+		<link>https://maimanhtuong.github.io/mywordpress/it-uses-a-dictionary-of-over-200-latin-words/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/it-uses-a-dictionary-of-over-200-latin-words/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2017 06:23:06 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Popular]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[awesome]]></category>
+		<category><![CDATA[favorite]]></category>
+		<category><![CDATA[food]]></category>
+		<guid isPermaLink="false">http://wp.shovondesign.com/profi/?p=1819</guid>
+
+					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/it-uses-a-dictionary-of-over-200-latin-words/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

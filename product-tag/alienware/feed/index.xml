@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>alienware &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/alienware/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Sat, 25 Sep 2021 14:39:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>MÁY TÍNH XÁCH TAY CHƠI GAME ALIENWARE M15 R6</title>
+		<link>https://maimanhtuong.github.io/mywordpress/product/may-tinh-xach-tay-choi-game-alienware-m15-r6/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/product/may-tinh-xach-tay-choi-game-alienware-m15-r6/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 06:04:47 +0000</pubDate>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3955</guid>
+
+					<description><![CDATA[<h2 class="hidden-xs" aria-label="TRUYỀN CẢM HỨNG BẤT NGỜ">TRUYỀN CẢM HỨNG BẤT NGỜ</h2>
+<div id="hero-description" class="hidden-xs" style="box-sizing: border-box; margin-bottom: 14px; color: #444444; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" aria-label="Chơi game với màn hình G-SYNC 15 &#34;nhanh nhất từ ​​trước đến nay của chúng tôi. Có tính năng làm mát Alienware Cryo-Tech ™ và bộ vi xử lý Intel &#60;sup&#62; ® &#60;/sup&#62; Core ™ thế hệ thứ 11.">Tiếp tục trò chơi với màn hình G-SYNC 15 "nhanh nhất của chúng tôi từ trước đến nay. Có tính năng làm mát Alienware Cryo-Tech ™ và bộ xử lý Intel <sup>®</sup> Core ™ thế hệ thứ 11 .</div>]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/may-tinh-xach-tay-choi-game-alienware-m15-r6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

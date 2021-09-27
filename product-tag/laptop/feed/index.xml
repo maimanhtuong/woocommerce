@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Laptop &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/laptop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Fri, 24 Sep 2021 04:04:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Microsoft Surface Laptop Core i5 / Win10 S 13.5 inch 8GB RAM (Đỏ) &#8211; Hàng Nhập Khẩu</title>
+		<link>https://maimanhtuong.github.io/mywordpress/product/microsoft-surface-laptop-core-i5-win10-s-13-5-inch-8gb-ram-do-hang-nhap-khau/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/product/microsoft-surface-laptop-core-i5-win10-s-13-5-inch-8gb-ram-do-hang-nhap-khau/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 05:57:17 +0000</pubDate>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3950</guid>
+
+					<description><![CDATA[<strong>Microsoft Surface </strong><strong>Laptop </strong><strong>Core i5</strong> được thiết kế nổi bật với hình dáng vuông vức, mỏng nhẹ cùng các đường bo góc tinh tế. Phía ngoài máy là logo Window ở chính giữa đẹp mắt. Bên cạnh đó, bàn phím máy được phủ vải Alcantara - chất liệu bền bỉ, mềm mại. Tất cả đem đến cho người dùng trải nghiệm độc đáo khi sử dụng chiếc laptop này. Hơn nữa, chiếc máy tính chỉ nặng khoảng 1.25 kg, bạn có thể dẫ dàng bỏ vào balo và mang theo bất cứ đâu]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/microsoft-surface-laptop-core-i5-win10-s-13-5-inch-8gb-ram-do-hang-nhap-khau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

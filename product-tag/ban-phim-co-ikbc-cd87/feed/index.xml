@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bàn phím cơ IKBC CD87 &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/ban-phim-co-ikbc-cd87/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Fri, 24 Sep 2021 04:06:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Bàn phím iKBC CD87 PD</title>
+		<link>https://maimanhtuong.github.io/mywordpress/product/ban-phim-ikbc-cd87-pd/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/product/ban-phim-ikbc-cd87-pd/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 02:55:33 +0000</pubDate>
+				<guid isPermaLink="false">https://maimanhtuong.github.io/mywordpress/?post_type=product&#038;p=3900</guid>
+
+					<description><![CDATA[<strong>Nhà sản xuất : iKBC</strong>
+
+<strong>Bảo hành : 24 tháng  </strong>
+
+<strong>Tình trạng : NEW (100%)</strong>
+
+<strong>Keycaps: PBT</strong>
+
+<strong>Switch : Cherry Blue/ Red/ Brown</strong>]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/product/ban-phim-ikbc-cd87-pd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

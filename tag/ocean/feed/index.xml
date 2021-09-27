@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ocean &#8211; ZOE Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/ocean/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maimanhtuong.github.io/mywordpress</link>
+	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
+	<lastBuildDate>Tue, 29 Aug 2017 06:21:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lorem Ipsum is simply dummy text</title>
+		<link>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-simply-dummy-text/</link>
+					<comments>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-simply-dummy-text/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2017 06:21:21 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[nature]]></category>
+		<category><![CDATA[ocean]]></category>
+		<category><![CDATA[sea]]></category>
+		<guid isPermaLink="false">http://wp.shovondesign.com/profi/?p=1812</guid>
+
+					<description><![CDATA[when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but&#46;&#46;&#46;]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/mywordpress/lorem-ipsum-is-simply-dummy-text/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
