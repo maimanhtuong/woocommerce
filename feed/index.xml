@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://maimanhtuong.github.io/woocommerce</link>
 	<description>&#34; Nơi cung cấp những thiết bị GEAR tốt nhất&#34;</description>
-	<lastBuildDate>Thu, 16 Sep 2021 03:23:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Oct 2021 01:31:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,25 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>3 lợi ích của máy vi tính trong đại dịch covid-19</title>
+		<link>https://maimanhtuong.github.io/woocommerce/3-loi-ich-cua-may-vi-tinh/</link>
+					<comments>https://maimanhtuong.github.io/woocommerce/3-loi-ich-cua-may-vi-tinh/#respond</comments>
+		
+		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2021 12:37:54 +0000</pubDate>
+				<category><![CDATA[covid 19]]></category>
+		<category><![CDATA[Máy vi tính]]></category>
+		<category><![CDATA[máy vi tính]]></category>
+		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=4164</guid>
+
+					<description><![CDATA[3 lợi ích của máy vi tính trong đại dịch, lợi ích thứ nhất: Lợi ích của máy tính trong đại dịch  Máy tính đóng vai&#46;&#46;&#46;]]></description>
+		
+					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/3-loi-ich-cua-may-vi-tinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ra Trường Đi Làm Mình Thấy Gì</title>
 		<link>https://maimanhtuong.github.io/woocommerce/ra-truong-di-lam-minh-thay-gi/</link>
 					<comments>https://maimanhtuong.github.io/woocommerce/ra-truong-di-lam-minh-thay-gi/#respond</comments>
@@ -34,80 +53,6 @@
 					<description><![CDATA[Tính theo tuổi thọ trung bình của đàn ông Việt Nam ghi nhận năm 2020 là 73.6 tuổi thì mình đã đi qua được 1/3 cuộc&#46;&#46;&#46;]]></description>
 		
 					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/ra-truong-di-lam-minh-thay-gi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Học cách vượt qua sự trì hoãn</title>
-		<link>https://maimanhtuong.github.io/woocommerce/hoc-cach-vuot-qua-su-tri-hoan/</link>
-					<comments>https://maimanhtuong.github.io/woocommerce/hoc-cach-vuot-qua-su-tri-hoan/#respond</comments>
-		
-		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
-		<pubDate>Wed, 15 Sep 2021 14:47:10 +0000</pubDate>
-				<category><![CDATA[Kỹ năng]]></category>
-		<category><![CDATA[self-help]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=111</guid>
-
-					<description><![CDATA[﻿ [textillate effect_in=&#8217;fadeInLeftBig&#8217; type_in=&#8217;sequence&#8217; effect_out=&#8217;hinge&#8217; type_out=&#8217;shuffle&#8217;]1. Sự trì hoãn – Procrastination[/textillate] Tại sao chúng ta lại có xu hướng trì hoãn? Bởi vì bộ não luôn&#46;&#46;&#46;]]></description>
-		
-					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/hoc-cach-vuot-qua-su-tri-hoan/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Thiền: Phương pháp chữa lành cảm xúc</title>
-		<link>https://maimanhtuong.github.io/woocommerce/thien-phuong-phap-chua-lanh-cam-xuc/</link>
-					<comments>https://maimanhtuong.github.io/woocommerce/thien-phuong-phap-chua-lanh-cam-xuc/#respond</comments>
-		
-		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
-		<pubDate>Wed, 15 Sep 2021 12:20:07 +0000</pubDate>
-				<category><![CDATA[Cảm xúc]]></category>
-		<category><![CDATA[Chữa lành]]></category>
-		<category><![CDATA[Thiền]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=105</guid>
-
-					<description><![CDATA[Mystic Cat Lady14 tháng 6 2020 Liệu bạn có những nỗi sợ bên trong mà bạn không biết bắt nguồn từ đâu không? Ví dụ như&#46;&#46;&#46;]]></description>
-		
-					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/thien-phuong-phap-chua-lanh-cam-xuc/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Mình đã vượt qua cú &#8220;sốc&#8221; những ngày đầu đi làm như thế nào?</title>
-		<link>https://maimanhtuong.github.io/woocommerce/minh-da-vuot-qua-cu-soc-nhung-ngay-dau-di-lam-nhu-the-nao/</link>
-					<comments>https://maimanhtuong.github.io/woocommerce/minh-da-vuot-qua-cu-soc-nhung-ngay-dau-di-lam-nhu-the-nao/#respond</comments>
-		
-		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
-		<pubDate>Wed, 15 Sep 2021 12:05:54 +0000</pubDate>
-				<category><![CDATA[Công việc]]></category>
-		<category><![CDATA[Người trẻ]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=96</guid>
-
-					<description><![CDATA[Câu chuyện của một người trẻ loay hoay, chới với trong những năm tháng đầu tiên bước chân ra đường đời&#8230; Mình là một cô gái&#46;&#46;&#46;]]></description>
-		
-					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/minh-da-vuot-qua-cu-soc-nhung-ngay-dau-di-lam-nhu-the-nao/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tarot – Những lá bài huyền bí</title>
-		<link>https://maimanhtuong.github.io/woocommerce/tarot-nhung-la-bai-huyen-bi/</link>
-					<comments>https://maimanhtuong.github.io/woocommerce/tarot-nhung-la-bai-huyen-bi/#respond</comments>
-		
-		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
-		<pubDate>Wed, 25 Aug 2021 13:18:03 +0000</pubDate>
-				<category><![CDATA[Tâm linh]]></category>
-		<category><![CDATA[Bài tarot]]></category>
-		<category><![CDATA[Thảo luận]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=55</guid>
-
-					<description><![CDATA[&#160; &#160; Mấy hôm nay tự dưng thấy có nhiều bạn hỏi về Tarot thực sự là gì. Tuy mới chỉ tìm hiểu về Tarot trong&#46;&#46;&#46;]]></description>
-		
-					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/tarot-nhung-la-bai-huyen-bi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -128,25 +73,6 @@
 					<description><![CDATA[Từ thiết kế lấy người dùng làm trung tâm đến một tầm cao mới trong Game hóa. Blog Game hoá12 giờ trước Trong suốt những năm&#46;&#46;&#46;]]></description>
 		
 					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/thiet-ke-lay-nguoi-choi-lam-trung-tam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tách biệt xã hội (Social Isolation), Sự cô độc (Loneliness) và ảnh hưởng của nó.</title>
-		<link>https://maimanhtuong.github.io/woocommerce/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/</link>
-					<comments>https://maimanhtuong.github.io/woocommerce/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/#respond</comments>
-		
-		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
-		<pubDate>Tue, 24 Aug 2021 12:32:55 +0000</pubDate>
-				<category><![CDATA[Tâm lí học]]></category>
-		<category><![CDATA[Con người]]></category>
-		<category><![CDATA[Xã hội]]></category>
-		<guid isPermaLink="false">https://maimanhtuong.github.io/woocommerce/?p=13</guid>
-
-					<description><![CDATA[  Buồn, lạc lõng, trầm cảm, cô độc, tách biệt xã hội. Tất cả những khái niệm này thường được nhắc đến nhưng cũng thường bị&#46;&#46;&#46;]]></description>
-		
-					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/tach-biet-xa-hoi-social-isolation-su-co-doc-loneliness-va-anh-huong-cua-no/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -185,27 +111,6 @@
 <!-- /wp:paragraph -->]]></description>
 		
 					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/hello-world/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>How we make choices ( vimeo)</title>
-		<link>https://maimanhtuong.github.io/woocommerce/how-we-make-choices-vimeo/</link>
-					<comments>https://maimanhtuong.github.io/woocommerce/how-we-make-choices-vimeo/#respond</comments>
-		
-		<dc:creator><![CDATA[maimanhtuong]]></dc:creator>
-		<pubDate>Thu, 10 Sep 2020 13:07:34 +0000</pubDate>
-				<category><![CDATA[Organic]]></category>
-		<category><![CDATA[SeaFood]]></category>
-		<category><![CDATA[bread]]></category>
-		<category><![CDATA[coffee]]></category>
-		<category><![CDATA[food]]></category>
-		<guid isPermaLink="false">https://athemeart.com/demo/grocery-store/demo-1/?p=114</guid>
-
-					<description><![CDATA[I have traced the Rebel spies to her. Now she is my only link to finding their secret base. Hey, Luke! May the Force be with&#46;&#46;&#46;]]></description>
-		
-					<wfw:commentRss>https://maimanhtuong.github.io/woocommerce/how-we-make-choices-vimeo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
